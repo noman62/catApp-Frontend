@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
    ```
    git clone https://github.com/noman62/catApp-Frontend
-   cd catApp
+   cd catApp-Frontend
    ```
 
 2. Install dependencies:
